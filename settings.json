@@ -1,0 +1,12 @@
+{
+  "vsicons.associations.folderDefault.folder": {
+    "icon": "blueFolder",
+    "format": "svg"
+  },
+  "vsicons.associations.folderDefault.root_folder": {
+    "vsicons.associations.folderDefault.folder": {
+      "icon": "rootBlueFolder",
+      "format": "svg"
+    }
+  }
+}
